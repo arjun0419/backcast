@@ -18,8 +18,6 @@ var AppView = Backbone.View.extend({
     //initialize search view
     var searchView = new SearchView();
     searchView.render();
-
-    
   },
 
 
